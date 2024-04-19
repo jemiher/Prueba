@@ -1,4 +1,4 @@
-cadena2="Bienvenidos todos"
+cadena2="Bienvenidos todos al taller"
 cadena3="1 23 a b c"
 #dir devuelve la lista de atributos válidos del objeto
 print(dir(cadena1))
