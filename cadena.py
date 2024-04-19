@@ -1,4 +1,3 @@
-cadena1="Hola soy Dalto"
 cadena2="Bienvenidos todos"
 cadena3="1 23 a b c"
 #dir devuelve la lista de atributos válidos del objeto
